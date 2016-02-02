@@ -27,3 +27,4 @@ We have already written a set of unit tests which will be used to test your impl
 * Exceptions are listed in the order they should be thrown
 * The standard WaterContainer contains 2 litres but other sizes can be attached. common sizes are the 10 litre or mains water supply
 * The standard BeanContainer holds 50 beans but other sizes can be attached. A 200 bean container is common
+# EspressoMachineTask
